@@ -22,7 +22,7 @@ export const PERSONAL_INFO = {
   email: "rajakdimika@gmail.com",
   phone: "+91-9302676858",
   location: "Indore, Madhya Pradesh, India",
-  profileImage: "/public/Dimmika.png",
+  profileImage: "/Dimmika.png",
   github: "https://github.com/DimmikaRajak",
   linkedin: "https://linkedin.com/in/dimmika-rajak-6b20792b8/",
   githubUsername: "DimmikaRajak",
